@@ -1,9 +1,6 @@
 # UserWebApplication
 Application for user database 
 
-Technologies used:
-
-Have bild a small web application
 Technologies used:-
 
 Java
